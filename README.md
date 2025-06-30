@@ -28,6 +28,7 @@ pip install -r requirements.txt
 Or manually:
 
 pip install streamlit requests
+
 3. Add your Hugging Face API token
 Create a file at .streamlit/secrets.toml in your project root:
 
