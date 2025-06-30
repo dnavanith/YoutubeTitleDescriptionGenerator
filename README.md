@@ -73,3 +73,12 @@ SEO analytics integration
 Real-time collaboration
 
 Accessibility features (voice input, screen reader support)
+
+Screenshots:
+![image](https://github.com/user-attachments/assets/74693a28-fe5c-408d-ae2a-b5c512652e31)
+![image](https://github.com/user-attachments/assets/b330c484-90a6-4ae1-a9fc-d19e6a636410)
+![image](https://github.com/user-attachments/assets/c3e589f6-934b-4d2d-9583-e2102a2622cc)
+
+
+
+
