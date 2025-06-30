@@ -1,5 +1,4 @@
 🎬 YouTube Title & Description Generator (GenAI, Streamlit + Hugging Face)
-
 Generate catchy YouTube video titles and SEO-optimized descriptions in seconds using Generative AI!
 Built with Streamlit and the Hugging Face Inference API (Mistral-7B-Instruct-v0.3).
 
@@ -21,22 +20,34 @@ Handles API errors and edge cases gracefully.
 
 ⚡ Quick Start
 1. Clone this repo
+(Or download as ZIP and extract)
 
 2. Install dependencies
 
+Open your terminal or command prompt in the project folder.
+
+Run:
+
+text
 pip install -r requirements.txt
-Or manually:
+Or, install manually:
 
+text
 pip install streamlit requests
-
 3. Add your Hugging Face API token
+
 Create a file at .streamlit/secrets.toml in your project root:
 
-HF_TOKEN = " "
-
-You will need to get the token from HuggingFace yourself.
+text
+HF_TOKEN = "your_hugging_face_token_here"
+Get your token from Hugging Face
+(Enable “Inference API” and “Inference Providers” permissions.)
 
 4. Run the app
+
+In your terminal, run:
+
+text
 streamlit run app.py
 📝 Usage
 Paste your video script or summary.
@@ -76,11 +87,5 @@ Real-time collaboration
 
 Accessibility features (voice input, screen reader support)
 
-Screenshots:
-![image](https://github.com/user-attachments/assets/74693a28-fe5c-408d-ae2a-b5c512652e31)
-![image](https://github.com/user-attachments/assets/b330c484-90a6-4ae1-a9fc-d19e6a636410)
-![image](https://github.com/user-attachments/assets/c3e589f6-934b-4d2d-9583-e2102a2622cc)
-
-
-
-
+📸 Screenshots
+![App Home](https://github.com/user-attachments/assets/74693a28-fe5c-408d-ae2a-b5c512652e](https://github.com/user-attachments/assets/b330c484-90a6-4ae1-a9fc-d19e6a](https://github.com/user-attachments/assets/c3e589f6-934b-4d2d-9583-e2102a2622cc
