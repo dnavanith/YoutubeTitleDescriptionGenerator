@@ -86,7 +86,8 @@ Real-time collaboration
 Accessibility features (voice input, screen reader support)
 
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/da7fa0c2-219a-4be8-92f7-cf7cf2b2ccc1)![image](https://github.com/user-attachments/assets/15feb5f2-1176-4c10-a047-1eff41393217)
+![image](https://github.com/user-attachments/assets/da7fa0c2-219a-4be8-92f7-cf7cf2b2ccc1)
 ![image](https://github.com/user-attachments/assets/6a049a17-272b-4afd-82ce-02d0950ff8bc)
+![image](https://github.com/user-attachments/assets/15feb5f2-1176-4c10-a047-1eff41393217)
 
 
