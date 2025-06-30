@@ -28,18 +28,16 @@ Open your terminal or command prompt in the project folder.
 
 Run:
 
-text
 pip install -r requirements.txt
 Or, install manually:
 
-text
 pip install streamlit requests
 3. Add your Hugging Face API token
 
 Create a file at .streamlit/secrets.toml in your project root:
 
-text
 HF_TOKEN = "your_hugging_face_token_here"
+
 Get your token from Hugging Face
 (Enable “Inference API” and “Inference Providers” permissions.)
 
@@ -47,8 +45,8 @@ Get your token from Hugging Face
 
 In your terminal, run:
 
-text
 streamlit run app.py
+
 📝 Usage
 Paste your video script or summary.
 
@@ -88,4 +86,7 @@ Real-time collaboration
 Accessibility features (voice input, screen reader support)
 
 📸 Screenshots
-![App Home](https://github.com/user-attachments/assets/74693a28-fe5c-408d-ae2a-b5c512652e](https://github.com/user-attachments/assets/b330c484-90a6-4ae1-a9fc-d19e6a](https://github.com/user-attachments/assets/c3e589f6-934b-4d2d-9583-e2102a2622cc
+![image](https://github.com/user-attachments/assets/da7fa0c2-219a-4be8-92f7-cf7cf2b2ccc1)![image](https://github.com/user-attachments/assets/15feb5f2-1176-4c10-a047-1eff41393217)
+![image](https://github.com/user-attachments/assets/6a049a17-272b-4afd-82ce-02d0950ff8bc)
+
+
