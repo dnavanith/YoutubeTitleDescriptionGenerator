@@ -33,7 +33,8 @@ pip install streamlit requests
 Create a file at .streamlit/secrets.toml in your project root:
 
 HF_TOKEN = " "
-Get your token here (enable “Inference API” and “Inference Providers” permissions).
+
+You will need to get the token from HuggingFace yourself.
 
 4. Run the app
 streamlit run app.py
